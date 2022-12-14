@@ -1,0 +1,20 @@
+id: AC7D9CF85
+title: Toh_438-Tara_with_Twenty-One_Verses_of_Homage-v2
+type: translation
+pechas:
+- IC2702A50
+- I1EA1C6FF
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-081-007
+  eft-text-version: 1.2.3 2020
+  title: Toh_438-Tara_with_Twenty-One_Verses_of_Homage-v2
+alignment_to_base:
+  IC2702A50/C4B9: 35FF
+  I1EA1C6FF/DD27: 35FF
